@@ -59,7 +59,7 @@ Help
 
 Obviously there is more work to be done here. If you want to help, pull requests accepted! Some ideas:
 
-* Fix zip file (currently getting a traceback from lxml, even from zip files included w/p.a.theming tests)
+* Fix zip file (currently getting a traceback from lxml, even with zip files from w/p.a.theming tests)
 * Add a diazo rule to import Plone editing styles
 * Configure styles to use portal_css
 * Add quick installer support
