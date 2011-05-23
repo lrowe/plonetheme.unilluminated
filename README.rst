@@ -50,7 +50,7 @@ Select and enable the theme from the Diazo control panel.
 
 That's it!
 
-You should see:
+You should see (without the calendar):
 
 .. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot.png
 
