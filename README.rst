@@ -2,7 +2,7 @@
 Introduction
 ============
 
-The ``plonetheme.unilluminated`` package uses the theming and packaging features
+The ``plonetheme.unilluminated`` package uses the *theming & packaging* features
 available in `plone.app.theming`_ to make the `CSS Templates`_ theme `Unilluminated`_ easily
 available in `Plone 4.1`_.
 
