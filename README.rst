@@ -63,7 +63,14 @@ Obviously there is more work to be done here. If you want to help, pull requests
 * Configure styles to use portal_css
 * Add quick installer support
 
+License
+-------
+
+The author is not a "license guy", but the Unilluminated theme is distributed with a CC 3.0 license[1]_ and this package is GPL version 2 (assuming that makes sense).
+
 .. _`Unilluminated`: http://www.freecsstemplates.org/preview/unilluminated/
 .. _`plone.app.theming`: http://pypi.python.org/pypi/plone.app.theming
 .. _`Plone 4.1`: http://pypi.python.org/pypi/Plone/4.1rc2
 .. _`CSS Templates`: http://www.freecsstemplates.org/
+
+.. [1] http://www.freecsstemplates.org/license/
