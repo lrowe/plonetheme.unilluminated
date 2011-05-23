@@ -29,6 +29,18 @@ Zip file
 
 XXX Coming soon
 
+Configuration
+-------------
+
+Once you have installed the package, you must configure it in Plone.
+
+Add Plone site
+~~~~~~~~~~~~~~
+
+Install Plone 4.1 and create a Plone site (if you have not already) with Diazo theming configure.
+
+.. image:: 
+
 .. _`Unilluminated`: http://www.freecsstemplates.org/preview/unilluminated/
 .. _`plone.app.theming`: http://pypi.python.org/pypi/plone.app.theming
 .. _`Plone 4.1`: http://pypi.python.org/pypi/Plone/4.1rc2
