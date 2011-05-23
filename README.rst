@@ -37,9 +37,17 @@ Once you have installed the package, you must configure it in Plone.
 Add Plone site
 ~~~~~~~~~~~~~~
 
-Install Plone 4.1 and create a Plone site (if you have not already) with Diazo theming configure.
+Install Plone 4.1 and create a Plone site (if you have not already) with Diazo theming configured.
 
-.. image:: 
+.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot2.png
+
+
+Select theme
+~~~~~~~~~~~~
+
+Select and enable the theme from the Diazo control panel.
+
+.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot3.png
 
 .. _`Unilluminated`: http://www.freecsstemplates.org/preview/unilluminated/
 .. _`plone.app.theming`: http://pypi.python.org/pypi/plone.app.theming
