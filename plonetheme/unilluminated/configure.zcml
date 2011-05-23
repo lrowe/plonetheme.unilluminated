@@ -3,9 +3,6 @@
     xmlns:browser="http://namespaces.zope.org/browser"
     xmlns="http://namespaces.zope.org/zope">
 
-    <browser:resourceDirectory
-        directory="static" name="plonetheme.unilluminated" />
-
     <plone:static
         directory="theme/unilluminated" type="theme" />
 
