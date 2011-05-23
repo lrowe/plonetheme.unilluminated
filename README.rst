@@ -54,6 +54,15 @@ You should see:
 
 .. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot.png
 
+Help
+----
+
+Obviously there is more work to be done here. If you want to help, pull requests accepted! Some ideas:
+
+* Add a diazo rule to import Plone editing styles
+* Configure styles to use portal_css
+* Add quick installer support
+
 .. _`Unilluminated`: http://www.freecsstemplates.org/preview/unilluminated/
 .. _`plone.app.theming`: http://pypi.python.org/pypi/plone.app.theming
 .. _`Plone 4.1`: http://pypi.python.org/pypi/Plone/4.1rc2
