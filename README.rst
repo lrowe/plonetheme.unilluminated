@@ -66,7 +66,7 @@ Obviously there is more work to be done here. If you want to help, pull requests
 License
 -------
 
-The author is not a "license guy", but the Unilluminated theme is distributed with a CC 3.0 license [1]_ and this package is GPL version 2 (assuming that makes sense).
+The author is not a "license guy", but the Unilluminated theme is distributed via CC 3.0 license [1]_ and this package is GPL version 2 (assuming that makes sense).
 
 .. _`Unilluminated`: http://www.freecsstemplates.org/preview/unilluminated/
 .. _`plone.app.theming`: http://pypi.python.org/pypi/plone.app.theming
