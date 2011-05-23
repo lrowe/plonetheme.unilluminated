@@ -16,7 +16,7 @@ Currently, only installation via Python package (and buildout) is supported. But
 Buildout
 ~~~~~~~~
 
-Using buildout, add ``plonetheme.unilluminated`` to your ``plone.recipe.zope2instance`` section's *eggs* parameter e.g.::
+Add ``plonetheme.unilluminated`` to your ``plone.recipe.zope2instance`` section's *eggs* parameter e.g.::
 
     [instance]
     eggs =
