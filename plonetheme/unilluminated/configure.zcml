@@ -7,6 +7,6 @@
         directory="static" name="plonetheme.unilluminated" />
 
     <plone:static
-        directory="theme" type="theme" />
+        directory="theme/unilluminated" type="theme" />
 
 </configure>
