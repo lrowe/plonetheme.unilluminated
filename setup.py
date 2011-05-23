@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='plonetheme.unilluminated',
     version='0.1.0',
-    description='A Diazo theme for Plone 4.1',
+    description='An installable Diazo theme for Plone 4.1',
     long_description=open("README.rst", "rb").read(),
     author='Alex Clark',
     author_email='aclark@aclark.net',
