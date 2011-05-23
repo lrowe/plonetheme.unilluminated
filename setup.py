@@ -13,6 +13,7 @@ setup(
         'Framework :: Plone',
         'Programming Language :: Python',
     ],
+    keywords='web zope plone theme diazo',
     packages=find_packages(),
     include_package_data=True,
     namespace_packages=[
